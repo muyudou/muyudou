@@ -5,6 +5,7 @@
 
 - 🔭 Just a fe developer
 - 🌱 I’m currently learning js
+-  [github pages博客](https://muyudou.github.io/learn-js/)
 
 <!--
 **tiann/tiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
